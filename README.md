@@ -1,16 +1,20 @@
-# 
-thanks to all the squid proxy group master in Indonesia
+<img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/Untitled0.jpg">
+
+# thanks to all the squid proxy group master in Indonesia
 especially =
-om cespun
-syaifudin.Jw
-Efdika Doan
-Uccok Harahap
-Teuku Indra Maulana
-gin kyiosiro
-adhi proxy
-mikrotiker and squid lovers
-Chairil fadli
-and more sorry for all the above is not very helpful, thanks
+<li>om cespun</li>
+<li>syaifudin.Jw</li>
+<li>Efdika Doank</li>
+<li>Uccok Harahap</li>
+<li>Teuku Indra Maulana</li>
+<li>Gin kyiosiro</li>
+<li>adhi proxy</li>
+<li>mikrotiker and squid lovers</li>
+<li>dhani dhanu</li>
+<li>Chairil fadli</li>
+<li>Aska Juliadi</li>
+<li>Dokter Squid indonesia</li>
+and more...sorry for all the above is not very helpful, thanks
 <a href = "https://www.facebook.com/groups/Mikrotik.Squid.Indonesia/">Mikrotik Squid Indonesia Facebook group</a>
 # squid4 for autoinstall  No-tproxy-full-manual-input-in your iternet browser
 - for use debian7 or debian8  in session to install this squid4 <a href="http://cdimage.debian.org/cdimage/archive/7.11.0/amd64/iso-cd/">Debian7 iso cd </a>
@@ -63,9 +67,11 @@ add action = mark-routing
 new routing mark = via squid
 ```
 <h1>documentation</h1>
+<img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/Untitled.jpg">
 <img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/Untitled1.jpg">
-<img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/Untitled8.jpg">
-<img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/Untitled21.jpg">
-<img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/Untitled22.jpg">
-<img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/Untitled20.jpg">
-<img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/blok.jpg">
+<img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/Untitled2.jpg">
+<img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/Untitled3.jpg">
+<img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/Untitled4.jpg">
+<img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/Untitled5.jpg">
+<img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/Untitled6.jpg">
+<img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/Untitled7.jpg">
