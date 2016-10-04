@@ -19,7 +19,7 @@ and much more ... sorry for all that can not be mentioned above you who have bee
 # squid4 for autoinstall  No-tproxy-full-manual-input-in your iternet browser
 - here I use VirtualBox as a proxy machine
 - for use debian7 or debian8  in session to install this squid4 <a href="http://cdimage.debian.org/cdimage/archive/7.11.0/amd64/iso-cd/">Debian7 iso cd </a>
-<a href = "http://kambing.ui.ac.id/iso/debian/8.6.0/i386/iso-dvd/">debian8 iso cd</a>
+<a href = "http://cdimage.debian.org/debian-cd/8.6.0/amd64/iso-cd/">debian8 iso cd</a>
 - no tproxy - this is for input manual your web browser
 - full manual proxy with ssl_bump
  for tproxy please copy  modules in squid4-autoinstall-notproxy/ to the directory /etc/ ( cp modules /etc/ ),then copy also rc.local file to the directory /etc/ ( cp rc.local /etc/ ), edit the contents of the file rc.local on the ip_addressproxy/subnet replace with your_ipaddressproxy/subnet .
