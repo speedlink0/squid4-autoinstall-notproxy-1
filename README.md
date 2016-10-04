@@ -1,6 +1,6 @@
 <img src="https://github.com/puji122/squid4-autoinstall-notproxy/blob/master/documentasi/Untitled0.jpg">
 
-# thanks to all the squid proxy group master in Indonesia
+# thanks to all master & friend member in Mikrotik squid Indonesia facebook group 
 especially =
 <li>om cespun</li>
 <li>syaifudin.Jw</li>
