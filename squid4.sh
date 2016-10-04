@@ -24,7 +24,7 @@ echo "
 echo -e $cyan
 read -p 'Masukan User Linux Anda: ' userver
 read -sp 'password Linux Anda: ' passserver 
-echo "\n"
+echo \n
 echo "selamatkan dunia"
 echo -e "selamat datang $userver ashole di program installasi server\n"
 echo -e "Sekarang jam" $JAM:
@@ -91,6 +91,7 @@ echo -n "Banyak pemakai :"; who | wc -l
 echo "ok langsung ajah"
 echo "sambil ngopi brayy duduk yang manis yah"
 
+echo -e $cyan
 cp sysctl.conf /etc/
 cp limits.conf /etc/security/
 
@@ -187,7 +188,7 @@ echo -e $red
 echo "selesai_"
 echo -e $green
 echo -e "Selamat installasi squid proxy version4 telah selesai di laksanakan. , \nHarap Restart dulu server anda."
-echo -e "Created by : Puji Ermanto aka mamam-yuk"
+echo -e "Created by : Puji Ermanto aka mamam-yuk aka younghipster http://younghipster.comli.com/"
 while true; do
     read -p "Silahkan Direstart bro?" yn
     case $yn in
