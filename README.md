@@ -17,6 +17,7 @@ especially =
 and much more ... sorry for all that can not be mentioned above you who have been a little more helpful, thanks
 <a href = "https://www.facebook.com/groups/Mikrotik.Squid.Indonesia/">Mikrotik Squid Indonesia Facebook group</a>
 # squid4 for autoinstall  No-tproxy-full-manual-input-in your iternet browser
+- here I use VirtualBox as a proxy machine
 - for use debian7 or debian8  in session to install this squid4 <a href="http://cdimage.debian.org/cdimage/archive/7.11.0/amd64/iso-cd/">Debian7 iso cd </a>
 <a href = "http://kambing.ui.ac.id/iso/debian/8.6.0/i386/iso-dvd/">debian8 iso cd</a>
 - no tproxy - this is for input manual your web browser
