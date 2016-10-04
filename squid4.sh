@@ -32,8 +32,9 @@ echo -n "Masukan Nama Anda :"
 read nama
 echo -e $red[+] $cyan"$HOSTNAME uptime is "$red[+]$cyan;uptime
 echo -e Hello $blue $nama $green you are $red ashole
-echo -e $blue are you $red dizzy $blue $nama
-echo -e $blue oh iya ... !sebelumnya clone dari github git clone https://github.com/puji122/squid4-autoinstall.git
+echo -e $blue how are you $blue $nama
+echo -e $blue oh iya ... !sebelumnya clone dari $red github git clone https://github.com/puji122/squid4-autoinstall.git
+echo -e $cyan
 echo "|=====================================================|"
 echo "|                   Sajak Suara                       |"
 echo "|=====================================================|"
