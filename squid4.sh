@@ -1,7 +1,6 @@
 #!/bin/bash
 JAM=`date +%H`
 MENIT=`date +%M`
-
 blue='\e[1;34m'
 green='\e[0;23m'
 purple='\e[1;35m'
@@ -23,8 +22,7 @@ echo "
  ¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯  ¯         ¯  ¯        ¯¯   ";
 echo -e $cyan
 read -p 'Masukan User Linux Anda: ' userver
-read -sp 'password Linux Anda: ' passserver 
-echo \n
+read -sp 'password Linux Anda:\n ' passserver 
 echo "selamatkan dunia"
 echo -e "selamat datang $userver ashole di program installasi server\n"
 echo -e "Sekarang jam" $JAM:
@@ -181,7 +179,7 @@ echo "squid -k reconfigure"
 echo "/etc/init.d/squid restart"
 echo "byee ashole"
 echo "tail -f /var/log/squid/access.log | ccze"
-echo "buat direktory cache"
+echo "buat direktory cache, pastikan sebelumnya sudah di sesuaikan untuk direktori /cache nya sesuai dengan kapasitas hardisk anda"
 echo -e $purple
 squid -z
 echo -e $red
