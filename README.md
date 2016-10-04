@@ -23,7 +23,9 @@ and much more ... sorry for all that can not be mentioned above you who have bee
 - no tproxy - this is for input manual your web browser
 - full manual proxy with ssl_bump
  for tproxy please copy  modules in squid4-autoinstall-notproxy/ to the directory /etc/ ( cp modules /etc/ ),then copy also rc.local file to the directory /etc/ ( cp rc.local /etc/ ), edit the contents of the file rc.local on the ip_addressproxy/subnet replace with your_ipaddressproxy/subnet .
-- before installing the customized configuration cache_dir aufs /cache/cache ## adjust the size of your cache partition
+- 
+before doing the installation is customized in squid.conf for configuration cache_dir
+on the (cache_dir aufs /cache/cache on squid.conf in this folder) ## adjust to your partition
 - apt-get install git g++-4.4 -y or g++ for debian8
 <h1>Start Installation</h1>
 ##already finish installation debian or ubuntu server & webserver
