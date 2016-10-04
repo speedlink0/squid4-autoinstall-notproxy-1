@@ -174,7 +174,7 @@ chmod -R 777 /etc/squid/
 chown -R nobody /var/lib/squid/ssl_db
 chown -R proxy:proxy /var/lib/squid/ssl_db
 
-echo "================================================================"
+echo "================================================================================================================================"
 echo "setelah reboot"
 echo "squid -k reconfigure"
 echo "/etc/init.d/squid restart"
@@ -188,6 +188,7 @@ echo "selesai_"
 echo -e $green
 echo -e "Selamat installasi squid proxy version4 telah selesai di laksanakan. , \nHarap Restart dulu server anda."
 echo -e "Created by : Puji Ermanto aka mamam-yuk aka younghipster http://younghipster.comli.com/"
+echo "================================================================================================================================"
 while true; do
     read -p "Silahkan Direstart bro?" yn
     case $yn in
