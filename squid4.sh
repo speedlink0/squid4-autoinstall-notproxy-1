@@ -22,7 +22,7 @@ echo "
  ¯¯¯¯¯¯¯¯¯¯   ¯¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯¯¯¯  ¯         ¯  ¯        ¯¯   ";
 echo -e $cyan
 read -p 'Masukan User Linux Anda: ' userver
-read -sp 'password Linux Anda:\n ' passserver 
+read -sp 'password Linux Anda:' passserver 
 echo "selamatkan dunia"
 echo -e "selamat datang $userver ashole di program installasi server\n"
 echo -e "Sekarang jam" $JAM:
