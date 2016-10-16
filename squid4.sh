@@ -120,7 +120,7 @@ echo '/usr/local/lib' >> /etc/ld.so.conf
 ldconfig
 
 cd -
-tar zxvf ecap_mamamyuk.tar.gz
+tar zxvf ecap_adapter_mamamyuk.tar.gz
 cd ecap_adapter_sample-1*
 ./configure && make && make install
 
